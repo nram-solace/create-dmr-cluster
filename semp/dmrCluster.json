@@ -1,0 +1,8 @@
+{
+    "dmrClusterName": "{{dmrClusterName}}",
+    "nodeName": "{{nodeName}}",
+    "authenticationBasicPassword" : "{{authenticationBasicPassword}}",
+    "enabled": false,
+    "tlsServerCertEnforceTrustedCommonNameEnabled": true,
+    "tlsServerCertValidateDateEnabled": true
+}
